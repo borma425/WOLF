@@ -10,7 +10,7 @@ try:
 except Exception as ex:
 	print(''' \033[0;93m--[WEbsite]----*-----https://www.yehia1hacker.com-----*--------''')
 	sys.exit()
-post_url='https://www.facebook.com/login.php'
+post_url='*************URL RECOVERY***********'
 headers = {
 'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
 }
@@ -117,7 +117,7 @@ print('\033[0;91m`````````````````````````````````-::-......-::-````````````````
 print('\033[0;91m------------- `````````````````````-::::::::-`````````````````````````````````````````````')
 
 
-print("\033[1;33mWelcome\033[1;37;40m 🗣️   🙋‍",uname.upper () )
+print("          \033[1;33mWelcome\033[1;37;40m 🗣️   🙋‍",uname.upper () )
 
 
 print('🕵  🕵   🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭 🎭' )
