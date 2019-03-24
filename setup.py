@@ -3,29 +3,9 @@
 # setup.py
 # yehia1hacker
 #I-love-python
+#facebook : https://www.facebook.com/yehia.hacker
 
-
-import os, time, sys
-
-GREEN = '\033[1m' + '\033[32m'
-WHITE = '\033[1m' + '\33[97m'
-END = '\033[0m'
-
-uname=input("enter user name=-💬-  ")
-passwd=""
-attempt=0
-flag=0
-while(attempt!=10000000000):
-    passwd=input("enter password- 👁  🔰-🔰-☢️  ")
-    if(passwd=="yehia1hacker"):
-        flag=1
-        break
-    else:
-        attempt=attempt+1
-        if(attempt==10000000000):
-            print("you have tried maximum number of time")
-if(flag==1):
-    print("welcome ✅ ",uname)
+import os
 
 print('MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM')
 print('MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhyo+:--.``      ``.--/+oyhmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM')
@@ -80,32 +60,4 @@ print('MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 print('MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM')
 if __name__ == '__main__':
 
-            print('header + """          v2.0 """ + Black hat + """by yehia1hacker (yehia1hacker)    """ + "\n" + END')
-
-            print('header + """                         v2.0 """ + Black hat + """yehia1hacker    """ + "\n" + END')
-
-
-            print('[+] Installing requirements in 10 seconds... Press CTRL + C to skip.')
-            time.sleep(5)
-            print("[+] Installing requirements...")
-            os.system("apt update  ")
-            os.system("apt upgrade  ")
-            os.system("apt install python")
-            os.system("apt install python2")
-            os.system("pip3 install requests bs4")
-            os.system("pip2 install mechanize")
-            os.system("pip install -r requirements.txt")
-            os.system("clear")
-            os.system("chmod +x WOLF.py")
-            os.system("chmod +x dnsServer.py")
-            os.system("chmod +x proxyScript.py")
-            os.system("chmod +x requirements.txt")
-            os.system("python3 WOLF.py")
-            os.system("clear")
-            print(" Script installed successfully  ")
-            print("Greetings to all")
-print("[+] Setup done.")
-
-print("🤩------------------------------------------🤩")
-print("Thanks for installing the script ✅ ",uname)
-print("😎------------------------------------------😎")
+os.system("python WOLF.py")
