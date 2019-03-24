@@ -1,5 +1,5 @@
 import os
 
 os.system("apt update")
-print("--- Good ---- Link _ https://justpaste.it/516kv")
+print("--- Good ---- Link         https://justpaste.it/516kv"     )
 
