@@ -1,5 +1,5 @@
 import os
 
 os.system("apt update")
-print("--- Good ---- Link         https://justpaste.it/516kv"     )
+print("\033[0;98m--- Good \033[0;97m---- Link      \033[0;96m   https://justpaste.it/516kv"     )
 
