@@ -14,5 +14,5 @@ print('                              ')
 print("goooood  hacker account facebook Gooood")
 print('                                     ')
 
-print("\033[0;98m--- Good \033[0;97m---- Link      \033[0;96m   https://pastebin.com/73amb8YK"     )
+print("\033[0;98m--- Good \033[0;97m---- Link      \033[0;96m   https://pastebin.com/Mtc4MYiJ"     )
 
