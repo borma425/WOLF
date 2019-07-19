@@ -1,2 +1,2 @@
 #Stop Tool
-print "https://www.facebook.com/yehia.hacker"
+print ("https://www.facebook.com/yehia.hacker")
