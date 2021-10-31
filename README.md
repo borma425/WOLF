@@ -1,3 +1,6 @@
+This tool to guess the password reset code for Facebook
+The tool has stopped
+
 apt-get install python3
 
 pip3 install requests bs4
